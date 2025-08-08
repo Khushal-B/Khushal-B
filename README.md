@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Khushal Bhalia</h1>
-<h3 align="center">A passionate full stack (MERN) developer from India</h3>
+<h3 align="center">A passionate coder and developer who likes building dope stuff</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal-b&label=Profile%20views&color=009bc2&style=flat-square" alt="khushal-b" /> </p>
 
 - 🔭 I’m currently working on [developing a multilingual chatbot chrome extension](https://github.com/Khushal-B/Multilingual-Chatbot)
 
-- 🌱 I’m currently learning **Advanced DSA concepts, Nextjs, Vue, and Machine Learning.**
+- 🌱 I’m currently learning **Advanced DSA concepts, Nextjs, Vue, Blockchain, Machine Learning, LLMs and GPU Programming.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khushal-B](https://github.com/Khushal-B)
 
@@ -16,7 +16,7 @@
 
 - 📄  Checkout my Resume **[Here](https://drive.google.com/file/d/1EXanMZmcCR2kCcaC0J984-bFi5VBmqR4/view?usp=sharing)**
 
-- ⚡ Fun fact **I am always happy 😅**
+- ⚡ Fun fact **I want to start my own startup, i have like a handfull of ideas to build 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
