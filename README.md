@@ -4,7 +4,7 @@
 <p align="left"> I'm a versatile developer who thrives on challenges and loves bringing ideas to life. With a diverse portfolio ranging from Web applications to AI and Deep Learning projects, I've got the skills to tackle any tech problem you throw my way.  <img src="https://komarev.com/ghpvc/?username=khushal-b&label=Profile%20views&color=009bc2&style=flat-round" alt="Profile Views" /> </p>
 
 
-<img align="right" alt="Coding" width="400" style="border-radius:10pt;" src="https://www.neolisk.blog/images/2021-03-29-speed-of-coding-2.jpg">
+<img align="right" alt="Coding" width="300" style="border-radius:10pt;" src="https://www.neolisk.blog/images/2021-03-29-speed-of-coding-2.jpg">
 
 - 🚀 I am pursuing my Masters in CS from **IIT Hyderabad**.
 - 💡 I'm currently learning and passionate about *Systems, Cloud, ML, and GenAI*. 
